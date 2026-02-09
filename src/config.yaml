@@ -1,0 +1,15 @@
+airport:
+  aug_alpha: 0.5
+  hidden_dim: 8
+  epochs: 1000
+  lr: 5e-2
+  n_hidden: 0
+  n_graphs: 3
+
+citation:
+  aug_alpha: 0.1
+  hidden_dim: 16
+  epochs: 1000
+  lr: 5e-2
+  n_hidden: 1
+  n_graphs: 3
